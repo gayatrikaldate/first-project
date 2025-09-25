@@ -1,6 +1,7 @@
-#include<iostream>
+#include <iostream>
 
-int mian(){
+int mian()
+{
     std::cout << "Hello, World!";
     return 0;
 }
